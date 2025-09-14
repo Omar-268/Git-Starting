@@ -1,4 +1,4 @@
-z# Git-Starting
+# Git-Starting
 A practical, beginner-friendly Git guide. This repository provides clear, hands-on instructions covering installation, initial configuration, basic file tracking, staging, committing, resolving conflicts, branching and merging, using .gitignore, and inspecting changes. Each module includes real command-line examples and references interactive labs, empowering new developers to understand and apply Git confidently.
 
 ## Repo Index
