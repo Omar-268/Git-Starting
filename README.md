@@ -16,3 +16,5 @@ A practical, beginner-friendly Git guide. This repository provides clear, hands-
 
 
 
+
+**Note:** The exercises and labs in this repository are based on the [Git Fundamentals course by Pawel Piwosz on KillerCoda](https://killercoda.com/pawelpiwosz/course/gitFundamentals), and all labs have been applied and tested practically.
